@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.dausuel.countdownwidget.CountdownConfigActivity"
+    android:minHeight="50dp"
+    android:minWidth="160dp"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen"
+    android:resizeMode="horizontal|vertical"
+    android:description="@string/app_name"/>
